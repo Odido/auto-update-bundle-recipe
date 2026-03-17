@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "Adlib\\AutoUpdateBundle\\AutoUpdateBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "config/"
+  }
+}
