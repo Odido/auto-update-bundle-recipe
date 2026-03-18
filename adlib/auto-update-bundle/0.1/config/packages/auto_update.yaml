@@ -1,0 +1,4 @@
+auto_update:
+    enabled: true
+    update_url: 'https://example.com/latest-version.txt'
+    target_dir: '%kernel.project_dir%'
