@@ -1,8 +1,8 @@
 {
   "packages": {
     "adlib/auto-update-bundle": {
-      "versions": {
-        "0.1": "adlib/auto-update-bundle/0.1"
+      "0.1": {
+        "manifest": "auto-update-bundle/0.1/manifest.json"
       }
     }
   }
