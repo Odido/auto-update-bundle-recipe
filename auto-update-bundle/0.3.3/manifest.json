@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "package": "adlib/auto-update-bundle",
-  "version": "0.1",
+  "version": "0.3.3",
   "files": {
     "config/packages/auto_update.yaml": "config/packages/auto_update.yaml"
   }
