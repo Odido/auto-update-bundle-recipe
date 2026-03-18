@@ -1,8 +1,11 @@
 {
-  "bundles": {
-    "Adlib\\AutoUpdateBundle\\AutoUpdateBundle": ["all"]
-  },
-  "copy-from-recipe": {
-    "config/": "config/"
-  }
+  "manifest_version": 1,
+  "package": "adlib/auto-update-bundle",
+  "version": "0.1",
+  "files": [
+    {
+      "source": "config/packages/auto_update.yaml",
+      "destination": "config/packages/auto_update.yaml"
+    }
+  ]
 }
