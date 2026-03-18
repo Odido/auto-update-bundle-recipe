@@ -2,7 +2,7 @@
   "packages": {
     "adlib/auto-update-bundle": {
       "0.3.3": {
-        "manifest": "auto-update-bundle/0.1/manifest.json"
+        "manifest": "auto-update-bundle/0.3.3/manifest.json"
       }
     }
   }
