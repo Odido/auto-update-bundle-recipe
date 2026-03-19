@@ -2,7 +2,7 @@
   "packages": {
     "adlib/auto-update-bundle": {
       "0.3": {
-        "manifest": "auto-update-bundle/0.3/manifest.json"
+        "manifest": "https://raw.githubusercontent.com/Odido/auto-update-bundle-recipe/master/auto-update-bundle/0.3/manifest.json"
       }
     }
   }
