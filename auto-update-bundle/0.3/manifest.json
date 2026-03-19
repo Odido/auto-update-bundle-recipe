@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "package": "adlib/auto-update-bundle",
-  "version": "0.3.5",
+  "version": "0.3",
   "copy-from-recipe": {
     "config/packages/auto_update.yaml": "%CONFIG_DIR%/packages/auto_update.yaml"
   }
